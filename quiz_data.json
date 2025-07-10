@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who is the main protagonist of Naruto?",
+    "choices": ["Sasuke Uchiha", "Naruto Uzumaki", "Kakashi Hatake", "Itachi Uchiha"],
+    "answer": 1
+  },
+  {
+    "question": "Which anime features the character 'Goku'?",
+    "choices": ["Bleach", "Naruto", "Dragon Ball", "One Piece"],
+    "answer": 2
+  },
+  {
+    "question": "In Attack on Titan, what is Eren's Titan form called?",
+    "choices": ["Beast Titan", "Colossal Titan", "Founding Titan", "Attack Titan"],
+    "answer": 3
+  },
+  {
+    "question": "Who created Fullmetal Alchemist?",
+    "choices": ["Hiromu Arakawa", "Masashi Kishimoto", "Akira Toriyama", "Eiichiro Oda"],
+    "answer": 0
+  },
+  {
+    "question": "L from Death Note loves which food?",
+    "choices": ["Spicy Ramen", "Cake", "Sushi", "Hamburgers"],
+    "answer": 1
+  },
+  {
+    "question": "What kind of creature is Totoro?",
+    "choices": ["Spirit", "Ghost", "Rabbit", "Cat"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the Straw Hat Pirates’ swordsman?",
+    "choices": ["Usopp", "Zoro", "Luffy", "Sanji"],
+    "answer": 1
+  },
+  {
+    "question": "What anime features a notebook that kills people?",
+    "choices": ["Bleach", "Death Parade", "Death Note", "Tokyo Ghoul"],
+    "answer": 2
+  },
+  {
+    "question": "Saitama is the main character in which anime?",
+    "choices": ["One Piece", "Mob Psycho", "Attack on Titan", "One Punch Man"],
+    "answer": 3
+  },
+  {
+    "question": "What is Tanjiro's sister's name?",
+    "choices": ["Mitsuri", "Nezuko", "Shinobu", "Kanao"],
+    "answer": 1
+  },
+  {
+    "question": "Which anime features alchemy as a central theme?",
+    "choices": ["Naruto", "Demon Slayer", "Fullmetal Alchemist", "My Hero Academia"],
+    "answer": 2
+  },
+  {
+    "question": "Which studio produced Spirited Away?",
+    "choices": ["Studio MAPPA", "Studio Trigger", "Studio Bones", "Studio Ghibli"],
+    "answer": 3
+  },
+  {
+    "question": "What is Levi Ackerman known for?",
+    "choices": ["Being the Colossal Titan", "Being a swordsman", "Being a scientist", "Being a spy"],
+    "answer": 1
+  },
+  {
+    "question": "What anime has a game called 'Gun Gale Online'?",
+    "choices": ["Overlord", "Sword Art Online", "Accel World", "Log Horizon"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is not a Pokémon type?",
+    "choices": ["Fire", "Light", "Water", "Electric"],
+    "answer": 1
+  },
+  {
+    "question": "In Bleach, what is Ichigo's sword called?",
+    "choices": ["Zangetsu", "Bankai", "Getsuga", "Hokage"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of the world in SAO?",
+    "choices": ["Aincrad", "Midgar", "Sinnoh", "Ylisse"],
+    "answer": 0
+  },
+  {
+    "question": "Who is the main villain in Hunter x Hunter's Chimera Ant arc?",
+    "choices": ["Hisoka", "Chrollo", "Meruem", "Illumi"],
+    "answer": 2
+  },
+  {
+    "question": "Which anime has a character named Zero Two?",
+    "choices": ["Darling in the Franxx", "Evangelion", "Akame ga Kill", "Code Geass"],
+    "answer": 0
+  },
+  {
+    "question": "What is the real name of Kira in Death Note?",
+    "choices": ["L", "Light Yagami", "Ryuk", "Mello"],
+    "answer": 1
+  }
+]
